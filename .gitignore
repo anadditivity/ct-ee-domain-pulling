@@ -32,5 +32,4 @@ go.work.sum
 # .vscode/
 
 
-/fetch-ee-domains
-!fetch-ee-domains.go
+binaries/
