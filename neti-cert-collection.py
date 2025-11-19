@@ -3,13 +3,16 @@ import socket, ssl, time, os
 from urllib.parse import urlparse
 
 os.makedirs('certificates', exist_ok=True)
-
 downloaded = set()
 for f in os.listdir('certificates'):
     if f.endswith('.pem'):
         domain = f.replace('.pem', '')
         downloaded.add(domain)
 print(f'Found {len(downloaded)} already downloaded certificates.')
+
+def log_error(domain, error_type, error_message):
+    with open('errored-neti-domains.txt', 'a') as f:
+        f.write(f'{domain},{error_type},{error_message}\n')
 
 def get_cert(domain):
     context = ssl.create_default_context()
@@ -23,17 +26,21 @@ def get_cert(domain):
         conn.connect((domain, 443))
         cert = conn.getpeercert(True)
         return cert
-    except socket.gaierror:
+    except socket.gaierror as e:
         print(f'DNS resolution failed for {domain}')
+        log_error(domain, 'DNS resolution failed', str(e))
         return None
     except ssl.SSLError as e:
         print(f'SSL error for {domain}: {e}')
+        log_error(domain, 'SSL error', str(e))
         return None
-    except socket.timeout:
+    except socket.timeout as e:
         print(f'Connection timeout for {domain}')
+        log_error(domain, 'Connection timeout', str(e))
         return None
     except Exception as e:
         print(f'Unexpected error for {domain}: {e}')
+        log_error(domain, 'Unexpected error', str(e))
         return None
     finally:
         if conn:
@@ -45,7 +52,6 @@ def get_cert(domain):
 domains = []
 with open('neti-link-scrape-regex-cleaned.csv', 'r') as f:
     domains = f.read().strip().split('\n')
-
 print(f'Loaded {len(domains)} domains to check.')
 
 counter = 0
@@ -68,5 +74,6 @@ for domain in domains:
         break
     except Exception as e:
         print(f'Error processing {domain}: {e}')
+        log_error(domain, 'Unexpected error in main loop', str(e))
 
 print(f'Out of {len(domains)}, {len(downloaded)} already downloaded, fetched {new_counter} new certificates')
