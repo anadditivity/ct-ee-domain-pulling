@@ -50,7 +50,7 @@ def get_cert(domain):
                 pass
 
 domains = []
-with open('found_ee_domains.csv', 'r') as f:
+with open('ee_domains_no_duplicates.csv', 'r') as f:
     domains = f.read().strip().split('\n')
 print(f'Loaded {len(domains)} domains to check.')
 

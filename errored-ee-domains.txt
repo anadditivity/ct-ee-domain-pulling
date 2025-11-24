@@ -1,0 +1,564 @@
+*.citizen.kuk.ee,DNS resolution failed,[Errno -2] Name or service not known
+777k.ti.a.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+777k.ti.a.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+*.citizen.kuk.ee,DNS resolution failed,[Errno -2] Name or service not known
+s.h.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+29185.ee,DNS resolution failed,[Errno -2] Name or service not known
+*.biznode.ee,DNS resolution failed,[Errno -2] Name or service not known
+biznode.ee,Connection timeout,timed out
+s3-generic.prd.tehik.ee,DNS resolution failed,[Errno -5] No address associated with hostname
+www.s3-generic.prd.tehik.ee,DNS resolution failed,[Errno -2] Name or service not known
+41593.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.ekt.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.elektrienergia.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.emk.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.fab.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+mail.wood.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.juhan.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+*.gaas.ee,DNS resolution failed,[Errno -2] Name or service not known
+41352.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.lolo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.fantom.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+saldo.mobiil.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.joonas.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kagu.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kaltsukad.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+webdisk.vatikan.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+dev-airbyte-duo.qa.linktr.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.osa.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.pta.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+designsystem.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.piir.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.siin.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.tara.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ujula.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ukulele.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.var.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.varuosa.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+cpanel.gourmet.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+cpcontacts.oculus.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.www.champion.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.bear.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.dating.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.galaxy.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.eds.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.fakt.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.eine.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.bono.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.fond.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.elton.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.assa.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.autogaasiseadmed.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.drones.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.armuke.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.bon.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.eub.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.cop.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.diner.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.arula.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.etc.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.drone.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.barista.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ehk.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.avangard.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.noop.ee,DNS resolution failed,[Errno -2] Name or service not known
+warp.eet.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+owa.meedium.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.edu.kvg.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+cpcontacts.gepard.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+*.livetube.ee,DNS resolution failed,[Errno -2] Name or service not known
+autodiscover.plaadimarket.ee,DNS resolution failed,[Errno -2] Name or service not known
+mail.carsound.ee,DNS resolution failed,[Errno -2] Name or service not known
+webdisk.palivere.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+vpn2.test.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+mobile.test.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+client.pling.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+remoteaccess.pling.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+web.pling.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+o1.ptr9644.village.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+login.pling.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+tthk-12.k1.viit.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+tthk-20.k1.viit.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+tthk-17.k1.viit.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+tthk-22.k1.viit.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcontacts.manual.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcalendars.paviljon.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+automaster.citymotors.ee,Connection timeout,timed out
+login.test.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+no.signal.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+www.ee.sti.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+*.jogeva.ee,DNS resolution failed,[Errno -2] Name or service not known
+kal.k.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+www.auth.testsiseveeb.tallinnlv.ee,DNS resolution failed,[Errno -2] Name or service not known
+www.sisu.testsiseveeb.tallinnlv.ee,DNS resolution failed,[Errno -2] Name or service not known
+www.tootaja.testsiseveeb.tallinnlv.ee,DNS resolution failed,[Errno -2] Name or service not known
+jqulc.ee,DNS resolution failed,[Errno -2] Name or service not known
+*.terviselahendus.ee,DNS resolution failed,[Errno -2] Name or service not known
+059879e5-b2e8-4f58-aa46-95f69d92aa34.random.ao.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+0ic.ih.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+10137.ee,DNS resolution failed,[Errno -2] Name or service not known
+10858.ee,DNS resolution failed,[Errno -2] Name or service not known
+10972.ee,DNS resolution failed,[Errno -2] Name or service not known
+11088.ee,DNS resolution failed,[Errno -2] Name or service not known
+11920.ee,DNS resolution failed,[Errno -2] Name or service not known
+12-4www.kuur.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+12987.ee,DNS resolution failed,[Errno -2] Name or service not known
+13985.ee,DNS resolution failed,[Errno -2] Name or service not known
+15820.ee,DNS resolution failed,[Errno -2] Name or service not known
+1.6.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+19374.ee,DNS resolution failed,[Errno -2] Name or service not known
+19583.ee,DNS resolution failed,[Errno -2] Name or service not known
+2008.keko.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+21648.ee,DNS resolution failed,[Errno -2] Name or service not known
+21700.ee,DNS resolution failed,[Errno -2] Name or service not known
+23589.ee,DNS resolution failed,[Errno -2] Name or service not known
+24090.ee,DNS resolution failed,[Errno -2] Name or service not known
+24722.ee,DNS resolution failed,[Errno -2] Name or service not known
+25020.ee,DNS resolution failed,[Errno -2] Name or service not known
+25546.ee,DNS resolution failed,[Errno -2] Name or service not known
+26367.ee,DNS resolution failed,[Errno -2] Name or service not known
+26754.ee,DNS resolution failed,[Errno -2] Name or service not known
+27681.ee,DNS resolution failed,[Errno -2] Name or service not known
+27683.ee,DNS resolution failed,[Errno -2] Name or service not known
+28.6.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+29067.ee,DNS resolution failed,[Errno -2] Name or service not known
+29178.ee,DNS resolution failed,[Errno -2] Name or service not known
+29185.ee,DNS resolution failed,[Errno -2] Name or service not known
+29541.ee,DNS resolution failed,[Errno -2] Name or service not known
+2q70eo.bp.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+2u.k.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+30481.ee,DNS resolution failed,[Errno -2] Name or service not known
+31274.ee,DNS resolution failed,[Errno -2] Name or service not known
+34189.ee,DNS resolution failed,[Errno -2] Name or service not known
+3.4.3eerrrrrrrr.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+34672.ee,DNS resolution failed,[Errno -2] Name or service not known
+35458.ee,DNS resolution failed,[Errno -2] Name or service not known
+36900.ee,DNS resolution failed,[Errno -2] Name or service not known
+37901.ee,DNS resolution failed,[Errno -2] Name or service not known
+37982.ee,DNS resolution failed,[Errno -2] Name or service not known
+38082.ee,DNS resolution failed,[Errno -2] Name or service not known
+38390.ee,DNS resolution failed,[Errno -2] Name or service not known
+38550.ee,DNS resolution failed,[Errno -2] Name or service not known
+38652.ee,DNS resolution failed,[Errno -2] Name or service not known
+39776.ee,DNS resolution failed,[Errno -2] Name or service not known
+39928.ee,DNS resolution failed,[Errno -2] Name or service not known
+40076.ee,DNS resolution failed,[Errno -2] Name or service not known
+40709.ee,DNS resolution failed,[Errno -2] Name or service not known
+41352.ee,DNS resolution failed,[Errno -2] Name or service not known
+41505.ee,DNS resolution failed,[Errno -2] Name or service not known
+41593.ee,DNS resolution failed,[Errno -2] Name or service not known
+41617.ee,DNS resolution failed,[Errno -2] Name or service not known
+42865.ee,DNS resolution failed,[Errno -2] Name or service not known
+42973.ee,DNS resolution failed,[Errno -2] Name or service not known
+45491.ee,DNS resolution failed,[Errno -2] Name or service not known
+45679.ee,DNS resolution failed,[Errno -2] Name or service not known
+46930.ee,DNS resolution failed,[Errno -2] Name or service not known
+47635.ee,DNS resolution failed,[Errno -2] Name or service not known
+48635.ee,DNS resolution failed,[Errno -2] Name or service not known
+48723.ee,DNS resolution failed,[Errno -2] Name or service not known
+49517.ee,DNS resolution failed,[Errno -2] Name or service not known
+51927.ee,DNS resolution failed,[Errno -2] Name or service not known
+52914.ee,DNS resolution failed,[Errno -2] Name or service not known
+53291.ee,DNS resolution failed,[Errno -2] Name or service not known
+53472.ee,DNS resolution failed,[Errno -2] Name or service not known
+53529.ee,DNS resolution failed,[Errno -2] Name or service not known
+53778.ee,DNS resolution failed,[Errno -2] Name or service not known
+55047.ee,DNS resolution failed,[Errno -2] Name or service not known
+56279.ee,DNS resolution failed,[Errno -2] Name or service not known
+56471.ee,DNS resolution failed,[Errno -2] Name or service not known
+56923.ee,DNS resolution failed,[Errno -2] Name or service not known
+57117.ee,DNS resolution failed,[Errno -2] Name or service not known
+57327.ee,DNS resolution failed,[Errno -2] Name or service not known
+58316.ee,DNS resolution failed,[Errno -2] Name or service not known
+58598.ee,DNS resolution failed,[Errno -2] Name or service not known
+60826.ee,DNS resolution failed,[Errno -2] Name or service not known
+61293.ee,DNS resolution failed,[Errno -2] Name or service not known
+61829.ee,DNS resolution failed,[Errno -2] Name or service not known
+62079.ee,DNS resolution failed,[Errno -2] Name or service not known
+62494.ee,DNS resolution failed,[Errno -2] Name or service not known
+62834.ee,DNS resolution failed,[Errno -2] Name or service not known
+63725.ee,DNS resolution failed,[Errno -2] Name or service not known
+64260.ee,DNS resolution failed,[Errno -2] Name or service not known
+64712.ee,DNS resolution failed,[Errno -2] Name or service not known
+64887.ee,DNS resolution failed,[Errno -2] Name or service not known
+6.6.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+67256.ee,DNS resolution failed,[Errno -2] Name or service not known
+67674.ee,DNS resolution failed,[Errno -2] Name or service not known
+68260.ee,DNS resolution failed,[Errno -2] Name or service not known
+69323.ee,DNS resolution failed,[Errno -2] Name or service not known
+6a-8.e-m.em.ay.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+6afz.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+6.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+71413.ee,DNS resolution failed,[Errno -2] Name or service not known
+72193.ee,DNS resolution failed,[Errno -2] Name or service not known
+72462.ee,DNS resolution failed,[Errno -2] Name or service not known
+72559.ee,DNS resolution failed,[Errno -2] Name or service not known
+72637.ee,DNS resolution failed,[Errno -2] Name or service not known
+73195.ee,DNS resolution failed,[Errno -2] Name or service not known
+73259.ee,DNS resolution failed,[Errno -2] Name or service not known
+73433.ee,DNS resolution failed,[Errno -2] Name or service not known
+73861.ee,DNS resolution failed,[Errno -2] Name or service not known
+73925.ee,DNS resolution failed,[Errno -2] Name or service not known
+74005.ee,DNS resolution failed,[Errno -2] Name or service not known
+74073.ee,DNS resolution failed,[Errno -2] Name or service not known
+75219.ee,DNS resolution failed,[Errno -2] Name or service not known
+76582.ee,DNS resolution failed,[Errno -2] Name or service not known
+777k.ti.a.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+78643.ee,DNS resolution failed,[Errno -2] Name or service not known
+79545.ee,DNS resolution failed,[Errno -2] Name or service not known
+7p.6.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+80998.ee,DNS resolution failed,[Errno -2] Name or service not known
+81491.ee,DNS resolution failed,[Errno -2] Name or service not known
+83271.ee,DNS resolution failed,[Errno -2] Name or service not known
+83563.ee,DNS resolution failed,[Errno -2] Name or service not known
+83618.ee,DNS resolution failed,[Errno -2] Name or service not known
+86495.ee,DNS resolution failed,[Errno -2] Name or service not known
+87203.ee,DNS resolution failed,[Errno -2] Name or service not known
+87346.ee,DNS resolution failed,[Errno -2] Name or service not known
+87795.ee,DNS resolution failed,[Errno -2] Name or service not known
+88088.ee,DNS resolution failed,[Errno -2] Name or service not known
+88693.ee,DNS resolution failed,[Errno -2] Name or service not known
+89254.ee,DNS resolution failed,[Errno -2] Name or service not known
+89771.ee,DNS resolution failed,[Errno -2] Name or service not known
+90550.ee,DNS resolution failed,[Errno -2] Name or service not known
+90916.ee,DNS resolution failed,[Errno -2] Name or service not known
+91106.ee,DNS resolution failed,[Errno -2] Name or service not known
+92385.ee,DNS resolution failed,[Errno -2] Name or service not known
+93308.ee,DNS resolution failed,[Errno -2] Name or service not known
+96736.ee,DNS resolution failed,[Errno -2] Name or service not known
+97055.ee,DNS resolution failed,[Errno -2] Name or service not known
+97437.ee,DNS resolution failed,[Errno -2] Name or service not known
+97494.ee,DNS resolution failed,[Errno -2] Name or service not known
+97590.ee,DNS resolution failed,[Errno -2] Name or service not known
+98648.ee,DNS resolution failed,[Errno -2] Name or service not known
+98725.ee,DNS resolution failed,[Errno -2] Name or service not known
+98843.ee,DNS resolution failed,[Errno -2] Name or service not known
+99356.ee,DNS resolution failed,[Errno -2] Name or service not known
+99800.ee,DNS resolution failed,[Errno -2] Name or service not known
+access.motiiv.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+access.vanker.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+account.uat.janssenmedicalcloud.ee,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
+admin.about.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ads.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.agentuur.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.agora.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ak.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.akita.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.akv.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.alko24.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.alkotakso.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.amour.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.arta.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.arveldamine.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.aupair.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.auro.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.autodiscover.eine.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.avo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.baby.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.banaan.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.banners.about.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.beell.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.cast.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.charter.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cool.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.coupon.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpanel.halogen.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpanel.kim.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcalendars.konditsioneer.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcalendars.paviljon.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcontacts.andu.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcontacts.kaal.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcontacts.lage.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcontacts.manual.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cpcontacts.transiit.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.cto.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.dayspa.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.dress.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.edu.kvg.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.egr.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ehi.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ekaart.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ekt.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.eku.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.elektrienergia.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.elektroonikapood.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.emk.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ept.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.fab.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.fantom.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.fino.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.finoteek.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.helpdesk.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.hostmaster.teen.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.hulgiladu.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ilmataat.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.jane.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.joonas.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.juhan.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kagu.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kai.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kaltsukad.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kapsas.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kohver.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kunstisalong.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.kursus.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.laminaat.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.lamp.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.lati.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.leaf.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.lng.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.lolo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.loor.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.mail.ab.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.mail.images.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.mart.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.mix.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.mugul.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.nail.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.news.talk.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.nisu.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.norm.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.off.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.osa.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.paber.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.parfuum.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.per.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.piir.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.positiivne.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.pta.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.rantso.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.rave.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.rihm.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.robottolmuimejad.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.roy.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.rsg.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.run.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.sc.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.siin.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.sinuraha.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.skm.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.snake.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.tac.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.tara.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.tare.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.tax.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.teleshop.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.trauma.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.triin.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.tyres.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ujula.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.ukulele.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.uus.eine.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.vaht.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.vambola.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.var.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.varuosa.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.veekeskus.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.www.002.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.abv.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ahven.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ais.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.alligator.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.alus.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ametnik.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.apm.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ariko.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.armuke.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.arts.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.arula.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.assa.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ats.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.autod24.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.autogaasiseadmed.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.avangard.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.avo.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.baltics.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.banana.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.barista.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.bear.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.bon.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.bono.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.born.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.calculator.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.cal.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.candles.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.champ.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.champion.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.cop.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.da.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.dating.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.deodorant.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.dialog.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.diner.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.drone.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.drones.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.edo.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.eds.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ehk.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.eiki.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.eine.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.elar.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.elektroonikapood.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.elene.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.elton.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.emi.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.etc.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.eub.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.fakt.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.family.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.fauna.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.firmapidu.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.fond.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.galaxy.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.girls.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.hardi.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.harvester.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.imbi.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.jakob.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.kilu.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.kliimatehnika.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.kunstisalong.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.lati.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.linnus.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.living.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.lo.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.macho.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.mahetoit.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.mops.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.neutraal.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.nikolai.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.noop.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.octopus.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.osa.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.oska.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.paradigma.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.pipeline.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.publisher.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ragulka.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.rannavolle.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ratsu.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.riidekapp.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.sakuska.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.simson.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.spordikell.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.tallinn.tours.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+admin.www.tarantel.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.tass.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.teave.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.trinity.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.truss.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.ukulele.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.vaarikas.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.vector.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.waste.ee,DNS resolution failed,[Errno -2] Name or service not known
+admin.www.workout.ee,DNS resolution failed,[Errno -2] Name or service not known
+adole.s.cent.ig.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+agri.pta.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+ai.aia.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+ai-ci.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+aieducation.ee,DNS resolution failed,[Errno -2] Name or service not known
+aiko.alo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+akan.je.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+akeneo-test.lincona.ee,Connection timeout,timed out
+akizinaw.lo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+aku.lagi.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+alayimari.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+a.low.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+amahztxl.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+amnesia.cinema.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+angel.a.nd.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+antiqua.nemo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+anyconnect.flirt.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+anyconnect.hotmail.com.pe.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+anyconnect.juri.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+api.bamboo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+api.skoor.ee,DNS resolution failed,[Errno -2] Name or service not known
+api.super.ee,DNS resolution failed,[Errno -2] Name or service not known
+api.tyn.ee,SSL error,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+app.bamboo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+apple.spot.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+app.proof.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+apps.sc.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+argo-cd.dev.teadal.isri.tln.int.cyber.ee,DNS resolution failed,[Errno -2] Name or service not known
+argo-workflows.dev.teadal.isri.tln.int.cyber.ee,DNS resolution failed,[Errno -2] Name or service not known
+art24.ee,DNS resolution failed,[Errno -2] Name or service not known
+assets.staging.cdn.teleport.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+aun.no.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+aussiepoppy.acd.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+authid.lhv.ee,DNS resolution failed,[Errno -2] Name or service not known
+auth.lhv.ee,DNS resolution failed,[Errno -2] Name or service not known
+autoconfig.tac.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.arula.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.carsound.ee,DNS resolution failed,[Errno -2] Name or service not known
+autodiscover.elistvere.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.haabersti.ee,DNS resolution failed,[Errno -2] Name or service not known
+autodiscover.kaktus.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.kvg.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.lavash.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.lett.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.liilia.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.marijuana.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.min.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.moesalong.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.network.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.nightclub.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.plaadimarket.ee,DNS resolution failed,[Errno -2] Name or service not known
+autodiscover.proof.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.ptnk.ee,DNS resolution failed,[Errno -2] Name or service not known
+autodiscover.ptsm.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'autodiscover.ptsm.ee'. (_ssl.c:1028)
+autodiscover.purikad.ee,DNS resolution failed,[Errno -2] Name or service not known
+autodiscover.raider.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.ringmajanduskeskus.ee,DNS resolution failed,[Errno -2] Name or service not known
+autodiscover.rkm.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.siiri.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.spinner.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.tao.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.ticket24.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.underground.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.vatteater.tna.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+autodiscover.virtualreality.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+automaster.citymotors.ee,Connection timeout,timed out
+avalik-wifi2.rik.ee,Unexpected error,[Errno 111] Connection refused
+avalik-wifi.rik.ee,Unexpected error,[Errno 111] Connection refused
+avatr.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
+ave.romantika.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+ba.ass.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+backend.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+ba.ff.ee,DNS resolution failed,[Errno -2] Name or service not known
+bali.k.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+bb.ff.ee,DNS resolution failed,[Errno -2] Name or service not known
+bc.marabu.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bc.marabu.ee'. (_ssl.c:1028)
+bcsi.cyber.ee,DNS resolution failed,[Errno -2] Name or service not known
+beelink.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'beelink.ee'. (_ssl.c:1028)
+benak.no.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+beta.skoor.ee,DNS resolution failed,[Errno -2] Name or service not known
+b.fa.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+bikyv.ee,DNS resolution failed,[Errno -2] Name or service not known
+biust.ac.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+bive.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+biznode.ee,Connection timeout,timed out
+blog.fake.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+blog.forma.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+blog.hint.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+blog.kana.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+blog.nitro.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+blog.saunabuss.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+blog.toidutakso.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+bluebottlecoffee.ee,DNS resolution failed,[Errno -2] Name or service not known
+blue.machine.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+b.mc.js.cool.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+bnuu.event.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+board.race.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+booking.buz.ee,DNS resolution failed,[Errno -2] Name or service not known
+bpurpm.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+br.shp.eep.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+bs.she.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+burayutii.bay.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+c.6.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+card.nitro.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+ccncccccccccccsccbv.g.rg.eg.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+ccss.6.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+c.e0.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+cebuano-eesti.tolge.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+ch.arlesf.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+chat.buz.ee,DNS resolution failed,[Errno -2] Name or service not known
