@@ -1,3 +1,4 @@
+## This duplicate removal code was created with help from Copilot
 import os
 import hashlib
 
