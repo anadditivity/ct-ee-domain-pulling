@@ -5,8 +5,8 @@ from urllib.parse import urlparse
 os.makedirs('certificates', exist_ok=True)
 downloaded = set()
 for f in os.listdir('certificates'):
-    if f.endswith('.pem'):
-        domain = f.replace('.pem', '')
+    if f.endswith('.der'):
+        domain = f.replace('.der', '')
         downloaded.add(domain)
 print(f'Found {len(downloaded)} already downloaded certificates.')
 
@@ -50,7 +50,7 @@ def get_cert(domain):
                 pass
 
 domains = []
-with open('neti-link-scrape-regex-cleaned.csv', 'r') as f:
+with open('domain-collection/neti-scraped-domains/neti-link-scrape-regex-cleaned.csv', 'r') as f:
     domains = f.read().strip().split('\n')
 print(f'Loaded {len(domains)} domains to check.')
 

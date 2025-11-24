@@ -35,3 +35,4 @@ go.work.sum
 binaries/
 certificates/
 certificates-backup/
+eu-certificates/

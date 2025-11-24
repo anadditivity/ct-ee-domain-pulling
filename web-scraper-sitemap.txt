@@ -1,1 +1,0 @@
-{"_id":"neti-puu","startUrl":["https://www.neti.ee/puu"],"selectors":[{"id":"all-sections","linkType":"linkFromHref","multiple":true,"parentSelectors":["_root"],"selector":".root-branch > a","type":"SelectorLink"},{"id":"link-name","linkType":"linkFromHref","multiple":true,"parentSelectors":["all-sections"],"selector":".link-wrapper a","type":"SelectorLink"}]}
