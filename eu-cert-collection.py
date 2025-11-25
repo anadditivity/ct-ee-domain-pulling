@@ -27,7 +27,7 @@ def get_cert(domain):
             socket.socket(socket.AF_INET),
             server_hostname=domain,
         )
-        conn.settimeout(10)
+        conn.settimeout(1)
         conn.connect((domain, 443))
         cert = conn.getpeercert(True)
         return cert
@@ -73,7 +73,7 @@ for domain in domains:
                 f.write(cert)
             new_counter += 1
             print(f'Success: {domain} ({new_counter} new)')
-            time.sleep(1)  # Be polite
+            time.sleep(0.1)  # I will be a little less polite for the EU domains ):
     except KeyboardInterrupt:
         print('\nScript interrupted by user.')
         break
