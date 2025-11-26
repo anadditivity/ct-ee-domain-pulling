@@ -36,3 +36,5 @@ binaries/
 certificates/
 certificates-backup/
 eu-certificates/
+ee-certificates/
+neti-certificates/

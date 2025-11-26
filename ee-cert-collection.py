@@ -64,7 +64,7 @@ for domain in domains:
         print(f'Checking {domain}...')
         cert = get_cert(domain)
         if cert:
-            with open(f'certificates/{domain}.der', 'wb') as f:
+            with open(f'ee-certificates/{domain}.der', 'wb') as f:
                 f.write(cert)
             new_counter += 1
             print(f'Success: {domain} ({new_counter} new)')
