@@ -441,7 +441,6 @@ bikyv.ee,DNS resolution failed,[Errno -2] Name or service not known
 biust.ac.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 bive.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 biznode.ee,Connection timeout,timed out
-*.biznode.ee,DNS resolution failed,[Errno -2] Name or service not known
 blog.fake.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 blog.forma.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 blog.hint.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -468,7 +467,6 @@ cebuano-eesti.tolge.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert i
 ch.arlesf.r.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 chat.buz.ee,DNS resolution failed,[Errno -2] Name or service not known
 christianity.buz.ee,DNS resolution failed,[Errno -2] Name or service not known
-*.citizen.kuk.ee,DNS resolution failed,[Errno -2] Name or service not known
 citizenm.ee,DNS resolution failed,[Errno -2] Name or service not known
 clientesvpn.ehk.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 clientesvpn.elektrik.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -590,7 +588,6 @@ fun.filled.day.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert intern
 fvrjasuperset.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 fxwtjtpjjo69iay0p.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 f.zo.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
-*.gaas.ee,DNS resolution failed,[Errno -2] Name or service not known
 gantted.ithanked.ee,DNS resolution failed,[Errno -5] No address associated with hostname
 garuu.ijoollee.gudisaa.qe.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 gate.lol.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -659,7 +656,6 @@ jhalley.om.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal e
 jira.sk.ee,Connection timeout,timed out
 j.jane.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 jjwifmail.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
-*.jogeva.ee,DNS resolution failed,[Errno -2] Name or service not known
 jqulc.ee,DNS resolution failed,[Errno -2] Name or service not known
 jvis.da.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 kaamera.htmotors.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
@@ -687,7 +683,6 @@ l4ij.na.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal erro
 lat.long.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 le.des.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 lhv.test.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
-*.livetube.ee,DNS resolution failed,[Errno -2] Name or service not known
 livezoku.ee,DNS resolution failed,[Errno -2] Name or service not known
 login.anni.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 login.pling.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -1076,9 +1071,9 @@ ninjaschool.vn.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert intern
 nitter.x1.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 no.baby.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 no.mano.esta.semana.no.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
-noora-f5-1.eenet.ee,Unexpected error,[Errno 113] No route to host
+noora-f5-1.eenet.ee,Connection timeout,timed out
 noora-f5-2.eenet.ee,Connection timeout,timed out
-noora-f5.eenet.ee,Connection timeout,timed out
+noora-f5.eenet.ee,Unexpected error,[Errno 113] No route to host
 no.signal.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 ns3.exchange.tornado.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 nulls.games.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -1113,7 +1108,7 @@ owa.vadim.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal er
 owa.vulkaan.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 oz.n2.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 pagartrade.ee,Unexpected error,[Errno 111] Connection refused
-pages.ext.cyber.ee,Connection timeout,timed out
+pages.ext.cyber.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pages.ext.cyber.ee'. (_ssl.c:1028)
 palovpn.ehi.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 palovpn.elektrik.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 palovpn.karina.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -1308,7 +1303,6 @@ taygeta.tele2.ee,Connection timeout,timed out
 tcpkpimg.ini.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 tech.ol.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 tehik.rocket.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
-*.terviselahendus.ee,DNS resolution failed,[Errno -2] Name or service not known
 test.deodorant.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 testdhs-app.harno.ee,Connection timeout,timed out
 test.pea.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -1496,6 +1490,7 @@ webmail.r1.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal e
 webmail.ridala.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 webmail.saba.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 webmail.saeveski.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+webmail.soodustused.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 webmail.tao.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 webmail.tarvik.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 webmail.teerull.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -1517,16 +1512,12 @@ webvpn.viisnurk.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert inter
 webvpn.www.pling.ee,DNS resolution failed,[Errno -2] Name or service not known
 wg-as-ext-db.cloud.cyber.ee,DNS resolution failed,[Errno -2] Name or service not known
 whm.meelis.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
+wildcard.alarmid.ee,Unexpected error,[Errno 111] Connection refused
 wp.karma.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 wp.tarvik.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 ws89.tornado.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 ws92.tornado.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 wwiir.aouaquito.eob.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
-www.auth.testsiseveeb.tallinnlv.ee,DNS resolution failed,[Errno -2] Name or service not known
-www.ee.sti.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
-www.s3-generic.prd.tehik.ee,DNS resolution failed,[Errno -2] Name or service not known
-www.sisu.testsiseveeb.tallinnlv.ee,DNS resolution failed,[Errno -2] Name or service not known
-www.tootaja.testsiseveeb.tallinnlv.ee,DNS resolution failed,[Errno -2] Name or service not known
 xapp.sokolaad.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 xapp.vadim.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 xn--9ca.e.es.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)

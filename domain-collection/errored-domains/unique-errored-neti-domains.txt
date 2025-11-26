@@ -1,17 +1,13 @@
 3dprintzone.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '3dprintzone.ee'. (_ssl.c:1028)
 4steps.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '4steps.ee'. (_ssl.c:1028)
 4x4safari.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '4x4safari.ee'. (_ssl.c:1028)
+7blaze.com,Connection timeout,_ssl.c:1011: The handshake operation timed out
 aabram.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aabram.ee'. (_ssl.c:1028)
-aai.ee~russak,DNS resolution failed,[Errno -2] Name or service not known
-aai.ee~sapar,DNS resolution failed,[Errno -2] Name or service not known
-aai.ee~tarmo,DNS resolution failed,[Errno -2] Name or service not known
-aai.ee~tk,DNS resolution failed,[Errno -2] Name or service not known
-aai.ee~urmas,DNS resolution failed,[Errno -2] Name or service not known
+aai.ee,DNS resolution failed,[Errno -5] No address associated with hostname
 aakinnisvaralaen.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aakinnisvaralaen.ee'. (_ssl.c:1028)
 aakreaed.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aakreaed.ee'. (_ssl.c:1028)
 aarens.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aarens.ee'. (_ssl.c:1028)
 aarspak.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aarspak.ee'. (_ssl.c:1028)
-aastaautolaen.ee,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
 abb.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'abb.ee'. (_ssl.c:1028)
 abehitus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'abehitus.ee'. (_ssl.c:1028)
 abemi.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'abemi.ee'. (_ssl.c:1028)
@@ -28,9 +24,13 @@ add.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hos
 agerona.lt,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
 agneta.ee,Unexpected error,[Errno 111] Connection refused
 aiamoobel.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aiamoobel.eu'. (_ssl.c:1028)
+aiboland.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 aif.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aif.ee'. (_ssl.c:1028)
+aiguom.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
+aire-edih.eu,Unexpected error,[Errno 104] Connection reset by peer
 aivena.com,Unexpected error,[Errno 111] Connection refused
 ajaloolisedvotted.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ajaloolisedvotted.ee'. (_ssl.c:1028)
+ajutaju.ee,Unexpected error,[Errno 111] Connection refused
 aklgrupp.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aklgrupp.ee'. (_ssl.c:1028)
 akmetal.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akmetal.ee'. (_ssl.c:1028)
 akos.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akos.ee'. (_ssl.c:1028)
@@ -58,6 +58,7 @@ anton-lauga.ee,DNS resolution failed,[Errno -5] No address associated with hostn
 antsrajando.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'antsrajando.ee'. (_ssl.c:1028)
 anver.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'anver.ee'. (_ssl.c:1028)
 aratava.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aratava.ee'. (_ssl.c:1028)
+arbor-shop.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'arbor-shop.com'. (_ssl.c:1028)
 ardiisia.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ardiisia.com'. (_ssl.c:1028)
 argokiil.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'argokiil.com'. (_ssl.c:1028)
 arhitekt.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'arhitekt.ee'. (_ssl.c:1028)
@@ -65,7 +66,6 @@ arhitektid.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fail
 arikoda.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'arikoda.com'. (_ssl.c:1028)
 armoobel.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'armoobel.ee'. (_ssl.c:1028)
 artesania.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
-artiklid.elnet.ee~S1*est,DNS resolution failed,[Errno -2] Name or service not known
 artmoments.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'artmoments.ee'. (_ssl.c:1028)
 arturbaar.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'arturbaar.eu'. (_ssl.c:1028)
 artus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'artus.ee'. (_ssl.c:1028)
@@ -80,6 +80,7 @@ aulex.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: H
 aura.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aura.ee'. (_ssl.c:1028)
 austraaliakarjakoer.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'austraaliakarjakoer.ee'. (_ssl.c:1028)
 autente.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'autente.ee'. (_ssl.c:1028)
+autoinsener.ee,Unexpected error,[Errno 111] Connection refused
 autoliising.autojarelmaks.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'autoliising.autojarelmaks.ee'. (_ssl.c:1028)
 autorkirjastus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'autorkirjastus.ee'. (_ssl.c:1028)
 autramet.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'autramet.ee'. (_ssl.c:1028)
@@ -106,7 +107,7 @@ bilancia.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed
 bioexpert.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bioexpert.ee'. (_ssl.c:1028)
 biooil.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'biooil.ee'. (_ssl.c:1028)
 bivarix.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bivarix.ee'. (_ssl.c:1028)
-bluemoon.ee~ahti,DNS resolution failed,[Errno -2] Name or service not known
+bluemoon.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
 bmwclassic.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bmwclassic.ee'. (_ssl.c:1028)
 boatcenter.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'boatcenter.ee'. (_ssl.c:1028)
 bradstone.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bradstone.ee'. (_ssl.c:1028)
@@ -121,8 +122,9 @@ carlentrade.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fa
 cathycar.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cathycar.eu'. (_ssl.c:1028)
 ccs.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ccs.ee'. (_ssl.c:1028)
 chow.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chow.ee'. (_ssl.c:1028)
-cinome.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cinome.ee'. (_ssl.c:1028)
+cinome.ee,Unexpected error,[Errno 111] Connection refused
 clayhills.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'clayhills.ee'. (_ssl.c:1028)
+cleanfix.ee,Unexpected error,[Errno 111] Connection refused
 cleanup.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cleanup.ee'. (_ssl.c:1028)
 climaref.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'climaref.ee'. (_ssl.c:1028)
 cocaoclub.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cocaoclub.ee'. (_ssl.c:1028)
@@ -132,16 +134,18 @@ compere.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
 consigliori.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'consigliori.ee'. (_ssl.c:1028)
 contextus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'contextus.ee'. (_ssl.c:1028)
 correcttranslations.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'correcttranslations.eu'. (_ssl.c:1028)
-cs.ioc.ee~tarmo,DNS resolution failed,[Errno -2] Name or service not known
-cs.tlu.ee~inga,DNS resolution failed,[Errno -2] Name or service not known
+cs.ioc.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
+cs.tlu.ee,DNS resolution failed,[Errno -5] No address associated with hostname
+cvo.ee,Unexpected error,[Errno 111] Connection refused
 danceda.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'danceda.ee'. (_ssl.c:1028)
 darestex.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'darestex.ee'. (_ssl.c:1028)
 dbtmuuga.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dbtmuuga.ee'. (_ssl.c:1028)
 debate.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'debate.ee'. (_ssl.c:1028)
-dermcorrect.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
+designpack.ee,Unexpected error,[Errno 104] Connection reset by peer
 dict.ibs.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dict.ibs.ee'. (_ssl.c:1028)
 disekt.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'disekt.ee'. (_ssl.c:1028)
 divider.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'divider.ee'. (_ssl.c:1028)
+dki.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 dolcepress.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dolcepress.ee'. (_ssl.c:1028)
 dreumex.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dreumex.ee'. (_ssl.c:1028)
 drs.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'drs.ee'. (_ssl.c:1028)
@@ -149,7 +153,7 @@ dunord.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: 
 duomedia.tv,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'duomedia.tv'. (_ssl.c:1028)
 dv-tools.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dv-tools.ee'. (_ssl.c:1028)
 easterntradingcompany.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
-eau.ee~saveli,DNS resolution failed,[Errno -2] Name or service not known
+eau.ee,DNS resolution failed,[Errno -5] No address associated with hostname
 eays.edu.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'eays.edu.ee'. (_ssl.c:1028)
 ebit.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ebit.ee'. (_ssl.c:1028)
 ecolight.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ecolight.ee'. (_ssl.c:1028)
@@ -160,8 +164,10 @@ eestiand.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed
 eestikynniselts.ee,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
 efis-estonia.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'efis-estonia.ee'. (_ssl.c:1028)
 eggomuna.ee,Unexpected error,[Errno 104] Connection reset by peer
+egu.ee,Unexpected error,[Errno 104] Connection reset by peer
 ehis.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ehis.ee'. (_ssl.c:1028)
 ehitame.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ehitame.ee'. (_ssl.c:1028)
+ehitused.ee,Unexpected error,[Errno 111] Connection refused
 ehitusjoonis.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ehitusjoonis.com'. (_ssl.c:1028)
 ehitusklaas.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
 ehkl.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ehkl.ee'. (_ssl.c:1028)
@@ -184,7 +190,6 @@ els.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hos
 eltok.ee,DNS resolution failed,[Errno -2] Name or service not known
 elumuutjad.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'elumuutjad.ee'. (_ssl.c:1028)
 elvakoolitus.ee,Unexpected error,[Errno 111] Connection refused
-ena.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 enepesumaja.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'enepesumaja.ee'. (_ssl.c:1028)
 entsyklopeedia.ee,Unexpected error,[Errno 111] Connection refused
 ephag.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ephag.com'. (_ssl.c:1028)
@@ -206,7 +211,6 @@ esteet.ee,Unexpected error,[Errno 104] Connection reset by peer
 esticat.org,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'esticat.org'. (_ssl.c:1028)
 esves.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'esves.ee'. (_ssl.c:1028)
 etiketikeskus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'etiketikeskus.ee'. (_ssl.c:1028)
-etjl.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 etra.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
 et.ruun.wikia.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'et.ruun.wikia.com'. (_ssl.c:1028)
 ettl.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ettl.ee'. (_ssl.c:1028)
@@ -214,7 +218,6 @@ eurest.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: 
 eurofondid.pajo.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'eurofondid.pajo.ee'. (_ssl.c:1028)
 eurofurnituur.ee,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
 evelinsulg.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'evelinsulg.com'. (_ssl.c:1028)
-evgeni.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 expodesign.ee,Connection timeout,timed out
 expoehitus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'expoehitus.ee'. (_ssl.c:1028)
 expressprint.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'expressprint.ee'. (_ssl.c:1028)
@@ -233,11 +236,11 @@ finhol.com,Connection timeout,timed out
 firmad24.ee,Unexpected error,[Errno 111] Connection refused
 fixtec.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fixtec.ee'. (_ssl.c:1028)
 flo.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'flo.ee'. (_ssl.c:1028)
-folklore.ee~kriku,DNS resolution failed,[Errno -2] Name or service not known
 foodies.ee,Connection timeout,timed out
 for4est.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'for4est.ee'. (_ssl.c:1028)
 fotobrigaad.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fotobrigaad.ee'. (_ssl.c:1028)
 freedance.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'freedance.ee'. (_ssl.c:1028)
+frehame.ee,DNS resolution failed,[Errno -2] Name or service not known
 front-line.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'front-line.ee'. (_ssl.c:1028)
 gekokoolitus.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gekokoolitus.eu'. (_ssl.c:1028)
 generent.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'generent.ee'. (_ssl.c:1028)
@@ -250,10 +253,13 @@ ginger.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: 
 globen.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'globen.ee'. (_ssl.c:1028)
 gold.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gold.ee'. (_ssl.c:1028)
 goldengoose.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'goldengoose.ee'. (_ssl.c:1028)
+gourmante.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gourmante.ee'. (_ssl.c:1028)
 gpb.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gpb.ee'. (_ssl.c:1028)
 grandecabaret.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'grandecabaret.ee'. (_ssl.c:1028)
+grano.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'grano.ee'. (_ssl.c:1028)
 graveerimine.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'graveerimine.ee'. (_ssl.c:1028)
 greenholm.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'greenholm.ee'. (_ssl.c:1028)
+grom.ee,DNS resolution failed,[Errno -2] Name or service not known
 gsm.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gsm.ee'. (_ssl.c:1028)
 gt.ee,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
 gtplanet.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'gtplanet.eu'. (_ssl.c:1028)
@@ -270,6 +276,7 @@ hdforest.ee,Unexpected error,[Errno 111] Connection refused
 heakartul.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'heakartul.ee'. (_ssl.c:1028)
 hea-metall.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hea-metall.ee'. (_ssl.c:1028)
 heidypurga.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'heidypurga.ee'. (_ssl.c:1028)
+heinoehitus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
 helenalass.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'helenalass.com'. (_ssl.c:1028)
 helgejewelry.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'helgejewelry.com'. (_ssl.c:1028)
 helioest.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'helioest.ee'. (_ssl.c:1028)
@@ -298,10 +305,8 @@ ilmar.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: H
 ilukirjandus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ilukirjandus.ee'. (_ssl.c:1028)
 ilunurgake.ee,Unexpected error,[Errno 111] Connection refused
 ilustuudiomimoos.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ilustuudiomimoos.ee'. (_ssl.c:1028)
-improteater.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'improteater.ee'. (_ssl.c:1028)
 incatex.ee,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
 individual.utoronto.ca,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
-indmar.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'indmar.ee'. (_ssl.c:1028)
 industek.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'industek.ee'. (_ssl.c:1028)
 infolaine.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'infolaine.ee'. (_ssl.c:1028)
 ingatagel.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ingatagel.ee'. (_ssl.c:1028)
@@ -324,7 +329,6 @@ johvikelder.ee,Unexpected error,[Errno 111] Connection refused
 johvikivi.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'johvikivi.ee'. (_ssl.c:1028)
 jonsered.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jonsered.com'. (_ssl.c:1028)
 jukupizza.ee,Unexpected error,[Errno 111] Connection refused
-jupiter.aai.ee~urmas,DNS resolution failed,[Errno -2] Name or service not known
 jur.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jur.ee'. (_ssl.c:1028)
 juristnahk.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'juristnahk.ee'. (_ssl.c:1028)
 jursuna.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'jursuna.eu'. (_ssl.c:1028)
@@ -344,7 +348,6 @@ kalasadam.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify faile
 kaljurand.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kaljurand.ee'. (_ssl.c:1028)
 kalviti.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kalviti.ee'. (_ssl.c:1028)
 kanne.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kanne.ee'. (_ssl.c:1028)
-kaprof.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kaprof.ee'. (_ssl.c:1028)
 karadekos.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'karadekos.ee'. (_ssl.c:1028)
 karislavert.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'karislavert.com'. (_ssl.c:1028)
 kasesalu.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -352,7 +355,6 @@ kaspartorn.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fail
 kassijaam.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kassijaam.eu'. (_ssl.c:1028)
 kastaalia.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kastaalia.ee'. (_ssl.c:1028)
 katelektronik.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'katelektronik.ee'. (_ssl.c:1028)
-katreeesmaa.com,Connection timeout,_ssl.c:1011: The handshake operation timed out
 katusepesu.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1028)
 kaunisrahvaroivas.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kaunisrahvaroivas.ee'. (_ssl.c:1028)
 kaupmeherp.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kaupmeherp.ee'. (_ssl.c:1028)
@@ -379,12 +381,9 @@ kiwi.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Ho
 klaasimees.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'klaasimees.ee'. (_ssl.c:1028)
 klaaspasun.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'klaaspasun.ee'. (_ssl.c:1028)
 kliimatehnik.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kliimatehnik.ee'. (_ssl.c:1028)
-kliimavent.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kliimavent.ee'. (_ssl.c:1028)
 klpartners.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'klpartners.ee'. (_ssl.c:1028)
 kodanikukoolitus.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kodanikukoolitus.eu'. (_ssl.c:1028)
 kodumasinateremont.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
-kodu.ut.ee~kiisk,DNS resolution failed,[Errno -2] Name or service not known
-kodu.ut.ee~mkaasik,DNS resolution failed,[Errno -2] Name or service not known
 koeragakooli.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'koeragakooli.ee'. (_ssl.c:1028)
 koerasport.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'koerasport.ee'. (_ssl.c:1028)
 koertekoolkratt.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'koertekoolkratt.ee'. (_ssl.c:1028)
@@ -401,6 +400,7 @@ kpmg.ee,Connection timeout,timed out
 kreisi.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kreisi.ee'. (_ssl.c:1028)
 kriips.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kriips.ee'. (_ssl.c:1028)
 krismet.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'krismet.ee'. (_ssl.c:1028)
+kriso.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 krokus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
 kroonpress.ee,Connection timeout,timed out
 kruta.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kruta.ee'. (_ssl.c:1028)
@@ -420,12 +420,11 @@ kyttetehnik.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fai
 kyyned.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kyyned.ee'. (_ssl.c:1028)
 kyytriratsep.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kyytriratsep.ee'. (_ssl.c:1028)
 laadacafe.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'laadacafe.ee'. (_ssl.c:1028)
-laadialla.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'laadialla.ee'. (_ssl.c:1028)
+laadialla.ee,DNS resolution failed,[Errno -2] Name or service not known
 laantre.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'laantre.ee'. (_ssl.c:1028)
-lafemmeunique.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)
+lafemmeunique.ee,DNS resolution failed,[Errno -2] Name or service not known
 lahemaalooduskool.eu,Unexpected error,[Errno 111] Connection refused
 laheperekultuuriselts.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'laheperekultuuriselts.eu'. (_ssl.c:1028)
-lambertproductions.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 landseeriklubi.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'landseeriklubi.ee'. (_ssl.c:1028)
 lanero.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lanero.ee'. (_ssl.c:1028)
 laperla.ee,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
@@ -440,13 +439,6 @@ lehtseehitus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify fa
 lekk.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lekk.ee'. (_ssl.c:1028)
 lenta.ru,DNS resolution failed,[Errno -2] Name or service not known
 leonbergerdog.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'leonbergerdog.eu'. (_ssl.c:1028)
-lepo.it.da.ut.ee~dyyna,DNS resolution failed,[Errno -2] Name or service not known
-lepo.it.da.ut.ee~illarl,DNS resolution failed,[Errno -2] Name or service not known
-lepo.it.da.ut.ee~kaili,DNS resolution failed,[Errno -2] Name or service not known
-lepo.it.da.ut.ee~pedaste,DNS resolution failed,[Errno -2] Name or service not known
-lepo.it.da.ut.ee~riina,DNS resolution failed,[Errno -2] Name or service not known
-lepo.it.da.ut.ee~timo_m,DNS resolution failed,[Errno -2] Name or service not known
-lepo.it.da.ut.ee~toja,DNS resolution failed,[Errno -2] Name or service not known
 lesanio.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lesanio.ee'. (_ssl.c:1028)
 lhg.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lhg.ee'. (_ssl.c:1028)
 lightroom.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
@@ -461,13 +453,10 @@ lmkk.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Ho
 logistikapartner.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'logistikapartner.ee'. (_ssl.c:1028)
 logoabi.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'logoabi.com'. (_ssl.c:1028)
 loksaehitus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
-loksajuuksur.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
-looduskosmeetik.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 loomateraapiakeskus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'loomateraapiakeskus.ee'. (_ssl.c:1028)
 loomemois.ee,Unexpected error,[Errno 111] Connection refused
 lossimuusika.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lossimuusika.ee'. (_ssl.c:1028)
 lounad.ee,Unexpected error,[Errno 104] Connection reset by peer
-lounaeestimatusebyroo.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 lounaeestivahiuhing.org,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lounaeestivahiuhing.org'. (_ssl.c:1028)
 lovatalu.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lovatalu.ee'. (_ssl.c:1028)
 lrb.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lrb.ee'. (_ssl.c:1028)
@@ -502,7 +491,6 @@ meediaekspert.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify f
 meirok.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'meirok.ee'. (_ssl.c:1028)
 mekk.ee,Unexpected error,[Errno 111] Connection refused
 melikor.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1028)
-mella.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 merani.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'merani.ee'. (_ssl.c:1028)
 merbondhooldus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'merbondhooldus.ee'. (_ssl.c:1028)
 metsaforest.ee,Connection timeout,timed out
@@ -547,9 +535,7 @@ nublud.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: 
 nuga.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nuga.ee'. (_ssl.c:1028)
 nwe.ee,Unexpected error,[Errno 104] Connection reset by peer
 oaascatering.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'oaascatering.ee'. (_ssl.c:1028)
-obs.ee~allan,DNS resolution failed,[Errno -2] Name or service not known
-obs.ee~siim,DNS resolution failed,[Errno -2] Name or service not known
-obs.ee~taavi,DNS resolution failed,[Errno -2] Name or service not known
+obs.ee,DNS resolution failed,[Errno -5] No address associated with hostname
 office.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'office.ee'. (_ssl.c:1028)
 ohatis.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1028)
 ohk.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ohk.ee'. (_ssl.c:1028)
@@ -594,10 +580,6 @@ pirjofoto.ee,Connection timeout,timed out
 pkkk.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pkkk.ee'. (_ssl.c:1028)
 plastikest.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'plastikest.ee'. (_ssl.c:1028)
 playluggage.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'playluggage.com'. (_ssl.c:1028)
-pld.ttu.ee~hln,DNS resolution failed,[Errno -2] Name or service not known
-pld.ttu.ee~jaan,DNS resolution failed,[Errno -2] Name or service not known
-pld.ttu.ee~kruus,DNS resolution failed,[Errno -2] Name or service not known
-pld.ttu.ee~raiub,DNS resolution failed,[Errno -2] Name or service not known
 poldotsa.ee,DNS resolution failed,[Errno -5] No address associated with hostname
 polimersvarka.ee,Unexpected error,[Errno 111] Connection refused
 polstergeist.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'polstergeist.ee'. (_ssl.c:1028)
@@ -656,7 +638,7 @@ reisimaailm.ee,Unexpected error,[Errno 111] Connection refused
 reivik.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'reivik.ee'. (_ssl.c:1028)
 reklaamikombinaat.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'reklaamikombinaat.ee'. (_ssl.c:1028)
 relfinance.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'relfinance.ee'. (_ssl.c:1028)
-reolasegaryhm.pri.ee,Unexpected error,[Errno 111] Connection refused
+reolasegaryhm.pri.ee,DNS resolution failed,[Errno -2] Name or service not known
 restoranarmudu.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
 retailadvice.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'retailadvice.eu'. (_ssl.c:1028)
 retro24.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'retro24.ee'. (_ssl.c:1028)
@@ -674,6 +656,7 @@ ruum.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Ho
 rvb.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rvb.ee'. (_ssl.c:1028)
 saaber.net,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'saaber.net'. (_ssl.c:1028)
 saarelaat.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'saarelaat.eu'. (_ssl.c:1028)
+saaremaacup.eu,Unexpected error,[Errno 111] Connection refused
 saaremaavesi.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'saaremaavesi.ee'. (_ssl.c:1028)
 saarik.ee,Connection timeout,timed out
 sacredbirman.ee,DNS resolution failed,[Errno -2] Name or service not known
@@ -684,7 +667,7 @@ samisu.ee,Unexpected error,[Errno 111] Connection refused
 sammasab.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
 sanlind.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sanlind.ee'. (_ssl.c:1028)
 saunamaa.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'saunamaa.ee'. (_ssl.c:1028)
-scorpion.aai.ee~joel,DNS resolution failed,[Errno -2] Name or service not known
+scorpion.aai.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'scorpion.aai.ee'. (_ssl.c:1028)
 scsprofit.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'scsprofit.ee'. (_ssl.c:1028)
 sebra.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sebra.ee'. (_ssl.c:1028)
 sejs.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sejs.ee'. (_ssl.c:1028)
@@ -713,7 +696,6 @@ smorzhevskihh.com,SSL error,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in 
 sohvameistrid.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sohvameistrid.ee'. (_ssl.c:1028)
 sojaliit.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sojaliit.ee'. (_ssl.c:1028)
 soklimeistrid.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'soklimeistrid.ee'. (_ssl.c:1028)
-solis.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
 soogimaja.planet.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'soogimaja.planet.ee'. (_ssl.c:1028)
 soogituba.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1028)
 soojuspumbaliit.ee,Unexpected error,[Errno 111] Connection refused
@@ -744,19 +726,18 @@ takh.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Ho
 takis.ee,DNS resolution failed,[Errno -5] No address associated with hostname
 talentplastics.ee,Connection timeout,timed out
 talleks.pri.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'talleks.pri.ee'. (_ssl.c:1028)
-tallinn.mfa.gov.az,DNS resolution failed,[Errno -2] Name or service not known
 talvet.edicypages.com,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'talvet.edicypages.com'. (_ssl.c:1028)
 tammerraamat.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tammerraamat.ee'. (_ssl.c:1028)
-tamme.tartu.ee~urmas,DNS resolution failed,[Errno -2] Name or service not known
 tankclean.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tankclean.ee'. (_ssl.c:1028)
 tannenberg.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tannenberg.ee'. (_ssl.c:1028)
 tantsuakadeemia.ee,SSL error,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1028)
+tantsumeka.ee,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 tantsunadal.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tantsunadal.ee'. (_ssl.c:1028)
 tantsusarvikud.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1028)
 tanzelt.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tanzelt.ee'. (_ssl.c:1028)
 tap.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tap.ee'. (_ssl.c:1028)
 tartu.areneb.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tartu.areneb.ee'. (_ssl.c:1028)
-tartu.frisbee.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
+tartu.frisbee.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tartu.frisbee.ee'. (_ssl.c:1028)
 tartukoertepargid.ee,DNS resolution failed,[Errno -2] Name or service not known
 tartuseikluspark.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tartuseikluspark.ee'. (_ssl.c:1028)
 tartutehnika.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tartutehnika.ee'. (_ssl.c:1028)
@@ -776,7 +757,7 @@ tellari.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
 tensegrity.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tensegrity.ee'. (_ssl.c:1028)
 teraapiakeskus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'teraapiakeskus.ee'. (_ssl.c:1028)
 tergum.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tergum.ee'. (_ssl.c:1028)
-tervisekunstid.ee,Connection timeout,_ssl.c:1011: The handshake operation timed out
+tervisekunstid.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tervisekunstid.ee'. (_ssl.c:1028)
 thg.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thg.ee'. (_ssl.c:1028)
 tiandri.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tiandri.ee'. (_ssl.c:1028)
 tiikons.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tiikons.eu'. (_ssl.c:1028)
@@ -784,15 +765,13 @@ tiir.eu,SSL error,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation 
 tikkimine.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)
 titansecurity.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'titansecurity.ee'. (_ssl.c:1028)
 tljls.planet.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tljls.planet.ee'. (_ssl.c:1028)
-tlu.ee~tonu,DNS resolution failed,[Errno -2] Name or service not known
-tlu.ee~tony,DNS resolution failed,[Errno -2] Name or service not known
 tlu.ee,Unexpected error,[Errno 111] Connection refused
 tmsehitus.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tmsehitus.ee'. (_ssl.c:1028)
 tokra.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tokra.ee'. (_ssl.c:1028)
 tomilona.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tomilona.eu'. (_ssl.c:1028)
 tomingas.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tomingas.ee'. (_ssl.c:1028)
-tonisfoto.com,Connection timeout,timed out
 tootmisseadmed.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tootmisseadmed.ee'. (_ssl.c:1028)
+tootmistugi.ee,Connection timeout,timed out
 tootsjapuit.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'tootsjapuit.ee'. (_ssl.c:1028)
 topkoolitus.ee,Unexpected error,[Errno 111] Connection refused
 topmetal.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'topmetal.ee'. (_ssl.c:1028)
@@ -875,11 +854,10 @@ weldest.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:
 werbung.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'werbung.ee'. (_ssl.c:1028)
 werk24.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'werk24.ee'. (_ssl.c:1028)
 wlestonia.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'wlestonia.ee'. (_ssl.c:1028)
-wowevents.eu,Connection timeout,timed out
 xn--mblipoisid-ecba.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--mblipoisid-ecba.ee'. (_ssl.c:1028)
 xn--phklinpp-0zaf.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--phklinpp-0zaf.ee'. (_ssl.c:1028)
 xn--plluraamat-2bb.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--plluraamat-2bb.ee'. (_ssl.c:1028)
 xn--tallinnaksitmess-3nb14aa.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--tallinnaksitmess-3nb14aa.ee'. (_ssl.c:1028)
 yf.ee,SSL error,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1028)
-zbi.ee~tomkukk,DNS resolution failed,[Errno -2] Name or service not known
+zbi.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
 zipzip.ee,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'zipzip.ee'. (_ssl.c:1028)

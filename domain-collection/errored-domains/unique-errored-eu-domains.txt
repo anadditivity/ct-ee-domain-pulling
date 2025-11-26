@@ -112,34 +112,6 @@
 01i2.e-volt-engineering.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
 01lr5.aramon.eu,SSL error,[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)
 01mi9ol.aiee.eu,SSL error,[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)
-0000214970-zh421.authentication.eu,SSL error,[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)
-0.0.0.0corgi.cryptopool.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.0.0hexun.cryptopool.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.0.0hoc.cryptopool.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.0.0mine.pool-x.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1028)
-0004382176-zh421.authentication.eu,SSL error,[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1028)
-000c5f0d-623c-43c6-9c39-829ec43f95f4.clec.eu,DNS resolution failed,[Errno -2] Name or service not known
-000f2e6b-7ade-4067-8eb7-bb803ed1b1d1.buynew.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.0mx10.api.cryptopool.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.0remote.api.cryptopool.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.0wiki.api.cryptopool.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.0ww17.phi.cryptopool.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.0www.pkr.cryptopool.eu,DNS resolution failed,[Errno -2] Name or service not known
-0010606b-7b62-4e21-a344-615d1e9109b5.xbfid.eu,DNS resolution failed,[Errno -2] Name or service not known
-0.0.1.newdestiny.eu,DNS resolution failed,[Errno -2] Name or service not known
-00230cb0-ca26-4a21-93c6-04be1dcd896f.naturalfragrance.eu,Connection timeout,timed out
-0033.eu,DNS resolution failed,[Errno -2] Name or service not known
-00366202-6df5-47f1-a251-49905aa6709a.vegaslounge.eu,DNS resolution failed,[Errno -2] Name or service not known
-0038ceee-bfd7-43e1-8abc-ec31741cd8f0.fitboxing.eu,DNS resolution failed,[Errno -2] Name or service not known
-003d5111-ec1f-419f-b597-c52f6747023e.ahnentafel.eu,Unexpected error,[Errno 104] Connection reset by peer
-003f1fdd-8d44-4082-b65a-b0ce42e117f4.am-shop.eu,DNS resolution failed,[Errno -2] Name or service not known
-003k.swissurance-rueckdeckungsversicherung.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
-004755bf-aab7-46da-af84-c73442ff5ff0.redburn.eu,DNS resolution failed,[Errno -2] Name or service not known
-004f1f2b-286a-4daa-98e0-a1977a98b1a4.j2tech.eu,DNS resolution failed,[Errno -2] Name or service not known
-00590e2b-2c1d-44d7-a9dc-3e9a968d9f1c.touristica.eu,DNS resolution failed,[Errno -2] Name or service not known
-005fe62c-b19f-4937-8bda-f08fb51a6e8b.bitstart.eu,DNS resolution failed,[Errno -2] Name or service not known
-006dd173-e75a-4556-9c9d-1ee8ee7388c5.chimichurri.eu,DNS resolution failed,[Errno -2] Name or service not known
-007720c0-62a9-447d-be23-1156923ef143.ccw7d.eu,DNS resolution failed,[Errno -2] Name or service not known
 01wd.stages-de-pilotage.eu,SSL error,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)
 020ba68e-542c-4e07-9e37-e0c6023910cc.unza.eu,DNS resolution failed,[Errno -2] Name or service not known
 02151d03-a3fa-4dcd-9f6d-d3dab9f12146.the-kitchen.eu,DNS resolution failed,[Errno -2] Name or service not known
@@ -23463,8 +23435,8 @@ crystalart.eu,DNS resolution failed,[Errno -2] Name or service not known
 crystalbay.eu,DNS resolution failed,[Errno -2] Name or service not known
 crystalica.eu,Connection timeout,_ssl.c:1011: The handshake operation timed out
 crystalit.eu,DNS resolution failed,[Errno -2] Name or service not known
-crystal-moon.eu,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 crystalmoon.eu,DNS resolution failed,[Errno -2] Name or service not known
+crystal-moon.eu,SSL error,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1028)
 crytek.eu,DNS resolution failed,[Errno -2] Name or service not known
 cryze.eu,DNS resolution failed,[Errno -2] Name or service not known
 crzerp.artizen.eu,DNS resolution failed,[Errno -2] Name or service not known

@@ -4,7 +4,7 @@ from urllib.parse import urlparse
 
 os.makedirs('certificates', exist_ok=True)
 downloaded = set()
-for f in os.listdir('certificates'):
+for f in os.listdir('ee-certificates'):
     if f.endswith('.der'):
         domain = f.replace('.der', '')
         downloaded.add(domain)

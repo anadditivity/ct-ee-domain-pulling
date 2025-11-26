@@ -2,16 +2,16 @@
 import socket, ssl, time, os
 from urllib.parse import urlparse
 
-os.makedirs('certificates', exist_ok=True)
+os.makedirs('neti-certificates', exist_ok=True)
 downloaded = set()
-for f in os.listdir('certificates'):
+for f in os.listdir('neti-certificates'):
     if f.endswith('.der'):
         domain = f.replace('.der', '')
         downloaded.add(domain)
 print(f'Found {len(downloaded)} already downloaded certificates.')
 
 def log_error(domain, error_type, error_message):
-    with open('errored-neti-domains.txt', 'a') as f:
+    with open('domain-collection/errored-domains/errored-neti-domains.txt', 'a') as f:
         f.write(f'{domain},{error_type},{error_message}\n')
 
 def get_cert(domain):
@@ -50,7 +50,7 @@ def get_cert(domain):
                 pass
 
 domains = []
-with open('domain-collection/neti-scraped-domains/neti-link-scrape-regex-cleaned.csv', 'r') as f:
+with open('domain-collection/neti-scraped-domains/unique-neti-domains.csv', 'r') as f:
     domains = f.read().strip().split('\n')
 print(f'Loaded {len(domains)} domains to check.')
 
@@ -68,7 +68,7 @@ for domain in domains:
                 f.write(cert)
             new_counter += 1
             print(f'Success: {domain} ({new_counter} new)')
-            time.sleep(1)  # Be polite
+            time.sleep(0.1)  # Be polite
     except KeyboardInterrupt:
         print('\nScript interrupted by user.')
         break
