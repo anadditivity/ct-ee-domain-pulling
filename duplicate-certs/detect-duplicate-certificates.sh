@@ -1,5 +1,5 @@
 #!/bin/bash
-find ./certificates/ -type f -exec sha256sum {} + | awk '{print $1 "\t" $2}' | sort | uniq -w64 -D | sort -k1,1 | awk '
+find ./all-certificates/ -type f -exec sha256sum {} + | awk '{print $1 "\t" $2}' | sort | uniq -w64 -D | sort -k1,1 | awk '
     {
     if (prev == $1) {
         printf "%s %s\n", prev_file, $2;
